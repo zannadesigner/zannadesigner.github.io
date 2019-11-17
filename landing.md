@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Сайты
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Дизайн сайта для вашего бизнеса
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Больше</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,17 +44,17 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Дизайн 2</h3>
 				</header>
 				<p></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Больше</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		
+
 				</header>
 
 			</div>
@@ -66,11 +66,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Дизайн 3</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p></p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Посмотреть</a></li>
 		</ul>
 	</div>
 </section>

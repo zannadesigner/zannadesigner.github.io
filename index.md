@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: ''
+landing-title: 'Welcome!'
 description: null
 image: null
 author: Zanna
