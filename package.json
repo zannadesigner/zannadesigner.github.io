@@ -41,7 +41,7 @@
   "description": "Append a buffer to another buffer ensuring to preserve line ending characters.",
   "devDependencies": {
     "gulp-format-md": "^2.0.0",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   },
   "engines": {
     "node": ">=0.10.0"
